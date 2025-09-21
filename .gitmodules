@@ -1,0 +1,3 @@
+[submodule "filex"]
+	path = filex
+	url = https://github.com/eclipse-threadx/filex.git
